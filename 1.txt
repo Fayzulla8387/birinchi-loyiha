@@ -1,2 +1,6 @@
 20-noyabr 2026-yil. 0801 dars
+<<<<<<< HEAD
 bugun github ga push qilishni o'rgandik.
+=======
+noyabr oyi github darsi
+>>>>>>> a37f02334bebd8da8dd6ccddca57caa74f99b56b
